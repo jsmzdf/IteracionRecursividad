@@ -1,5 +1,5 @@
 # Funciones recursivas e iterativas
-### john Sebastian Martinez Zabala -2171020059 
+### john Sebastian Martinez Zabala -20171020059 
 ### Andrés Mateo Nariño Rodríguez -20171020017
 ### Juan Sebastian Mancera Gaitán -20171020047
 
